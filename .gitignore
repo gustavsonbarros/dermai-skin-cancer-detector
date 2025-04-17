@@ -1,0 +1,22 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.sqlite3
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# TensorFlow/Keras
+model.h5
+checkpoint/
+
+# Dependências do ambiente
+env/
+venv/
+*.log
+
+# Arquivos temporários
+*~
+.DS_Store
