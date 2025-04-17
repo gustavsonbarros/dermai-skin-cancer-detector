@@ -1,4 +1,4 @@
-# Skin Cancer Detection Prototype
+# Dermai Skin Cancer Detection Prototype
 
 Este projeto de extensão tem como objetivo desenvolver um protótipo de sistema inteligente para detecção de câncer de pele utilizando técnicas de aprendizado de máquina com redes neurais convolucionais.
 
